@@ -35,13 +35,13 @@ This project was developed to demonstrate core React Native concepts, including:
 
 ---
 
-## 📁 Project Structure
-/App.js
-/screens
-├── HomeScreen.js
-├── DetailsScreen.js
-/context
-├── CourseContext.js
+## 📁 Project Structure  
+/App.js  
+/screens  
+├── HomeScreen.js  
+├── DetailsScreen.js  
+/context  
+├── CourseContext.js  
 
 
 ---
